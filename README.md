@@ -59,11 +59,16 @@ It ensures **accuracy** in wage calculations, **compliance** with tax laws, and 
 
 ## 📊 ER Diagrams
 
-**Conceptual ERD (C-ERD)**
-![Conceptual ERD](assets/conceptual_erd.png)
+**Conceptual ERD (C-ERD)**  
+<img src="Assets/Conceptual%20Entity%20Relationship%20Diagram%20(C-ERD).jpg" alt="Conceptual ERD" width="600"/>
 
-**Physical ERD (P-ERD)**
-![Physical ERD](assets/physical_erd.png)
+**Physical ERD (P-ERD)**  
+<img src="Assets/Physical%20ERD.jpg" alt="Physical ERD" width="600"/>
+
+**Full Database Physical ERD (P-ERD)**  
+<img src="Assets/Picture1.pngFull%20Database%20Physical%20ERD%20(P-ERD).png" alt="Full Database Physical ERD" width="600"/>
+
+
 
 ---
 
