@@ -69,11 +69,11 @@ It ensures **accuracy** in wage calculations, **compliance** with tax laws, and 
 
 ## 💻 SQL Scripts
 
-All SQL scripts can be found inside the [`sql_scripts`](./sql_scripts) folder.
+All SQL scripts are also uploaded to the project folder.
 
 - `create_tables.sql` – Creates all required tables.
 - `insert_data.sql` – Inserts sample data.
-- `stored_procedure.sql` – Contains reusable stored procedure.
+- `stored_procedure.sql` – Contains a reusable stored procedure.
 - `trigger.sql` – Contains trigger for payroll update history.
 - `business_query.sql` – Business query to find employees with >5 hours worked and active benefits.
 
