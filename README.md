@@ -78,8 +78,3 @@ All SQL scripts can be found inside the [`sql_scripts`](./sql_scripts) folder.
 - `business_query.sql` – Business query to find employees with >5 hours worked and active benefits.
 
 ---
-
-## 📧 Contact
-**Norbert Shema**  
-Bachelor of Science in Software Development – Husson University  
-[LinkedIn](https://www.linkedin.com/in/norbertshema) | [Email](mailto:shemanorbert11@gmail.com)
