@@ -74,7 +74,7 @@ It ensures **accuracy** in wage calculations, **compliance** with tax laws, and 
 
 ## 💻 SQL Scripts
 
-All SQL scripts are also uploaded in the Query folder.
+Check all the SQL scripts  in the Query folder.
 
 - `create_tables.sql` – Creates all required tables.
 - `insert_data.sql` – Inserts sample data.
