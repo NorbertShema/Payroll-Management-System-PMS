@@ -2,7 +2,7 @@
 INSERT INTO Employee (First_Name, Last_Name, Department, Hire_Date)
 VALUES
 ('Norbert', 'Shema', 'Engineering', '2020-01-15'),
-('Laura', 'Ishimwe', 'HR', '2019-11-25');
+('Laura', 'Ishimwe', 'HR', '2020-11-25');
 
 -- Insert into Attendance
 INSERT INTO Attendance (Employee_ID, TimeDate, CurrentStatus, Hours_Worked)
